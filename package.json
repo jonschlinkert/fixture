@@ -1,0 +1,24 @@
+{
+  "name": "fixture",
+  "description": "Fixtures, cannon fodder for tests.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/assemble/fixture",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/assemble/fixture.git"
+  },
+  "bugs": {
+    "url": "https://github.com/assemble/fixture/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/assemble/fixture/blob/master/LICENSE-MIT"
+    }
+  ],
+  "keywords": [
+    "fixture",
+    "test",
+    "benchmark"
+  ]
+}
